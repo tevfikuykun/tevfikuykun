@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Tevfik 👋
 
-<!--
-**tevfikuykun/tevfikuykun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer focused on **Java Backend Development and Enterprise Integration**.
 
-Here are some ideas to get you started:
+I have professional experience with Java, Spring Boot, Apache Camel, SAP integration technologies, and asynchronous messaging systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests include backend architecture, API development, enterprise integration patterns, and distributed systems.
+
+**Tech Stack:** Java · Spring Boot · Apache Camel · PostgreSQL · Redis · Kafka · ActiveMQ · Docker
+
+**Technical Writing:** Articles on SAP Integration Suite, OPC UA, API integration, and scheduling mechanisms.
+
+[LinkedIn](https://www.linkedin.com/in/tevfik-uykun/)
